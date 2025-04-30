@@ -1,0 +1,20 @@
+Peanuts 1 5 Swelling Difficulty_breathing Anaphylaxis end  
+Shellfish 3 4 Hives Swelling Nausea end  
+Tree_Nuts 13 5 Swelling Anaphylaxis end  
+Insect_Stings 14 4 Swelling Dizziness end  
+Strawberries 16 2 Itchy_throat Swelling end  
+Pollen 2 3 Sneezing Itchy_eyes Runny_nose end  
+Mold 6 2 Sneezing Congestion end  
+Pet_Dander 7 2 Sneezing Red_eyes end  
+Latex 5 3 Skin_rash Itching end  
+Penicillin 10 4 Rash Fever end  
+Nickel 19 3 Skin_rash Blisters end  
+Sunlight 20 2 Rash Fatigue end  
+Eggs 8 3 Vomiting Hives end  
+Sesame 15 3 Hives Wheezing end  
+Dust_Mites 4 2 Coughing Wheezing end  
+Soy 11 3 Itching Tingling_mouth end  
+Milk 9 3 Diarrhea Abdominal_pain end  
+Wheat 12 3 Nausea Bloating end  
+Chocolate 18 1 Headache Nausea end  
+Tomatoes 17 2 Mouth_itching Rash end  
